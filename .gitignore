@@ -1,0 +1,66 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+
+# Python stuff
+*.pyc
+
+
+# No logs, graphs, images, etc...
+*.log
+*.png
+*.svg
+*.eps
+
+
+# No exec
+*.run
+
+
+# No commits
+*.nocommit
+*.dontcommit
+
+
+# gcov (test coverage tool files)
+*.gcda
+*.gcno
+*.gcov
+
+
+# No generated documentation
+doc/
+
+
+# No build directory
+build/
+build-*/
+
+
+# No eclipse files
+/.project
+/.cproject
+.settings/*
+
+
+# ctags tags file (in root project directory)
+/tags
+
+
+# CMake's compilation database (when linked from root dir)
+/compile_commands.json
+
+
